@@ -3,10 +3,10 @@ package demo;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Test4 {
+public class Test3 {
 	@Test
-	public void demo() {
-		Reporter.log("hello selenium",true);
+	public void sample() {
+		Reporter.log("hello api",true);
 	}
 
 }
